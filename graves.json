@@ -1,0 +1,30 @@
+{
+  "graves": [
+    {
+      "id": "M001",
+      "name": "Nguyễn Văn A",
+      "birthYear": 1945,
+      "deathYear": 1972,
+      "location": "Khu A - Dãy 3 - Số 12",
+      "mapCoords": {
+        "x": 100,
+        "y": 150
+      },
+      "imageUrl": "",
+      "note": "Liệt sĩ hy sinh năm 1972 tại Quảng Trị"
+    },
+    {
+      "id": "M002",
+      "name": "Trần Thị B",
+      "birthYear": 1950,
+      "deathYear": 1990,
+      "location": "Khu B - Dãy 2 - Số 7",
+      "mapCoords": {
+        "x": 250,
+        "y": 100
+      },
+      "imageUrl": "",
+      "note": "Người mẹ hiền từ, mất năm 1990"
+    }
+  ]
+}
